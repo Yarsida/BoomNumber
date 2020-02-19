@@ -1,0 +1,9 @@
+created by peise.net
+
+HEX模式和RGB模式
+color0: #3F8887__RGB(63,136,135)
+color1: #50C5C3__RGB(80,197,195)
+color2: #FBF5C4__RGB(251,245,196)
+color3: #C3E332__RGB(195,227,50)
+color4: #AAC32F__RGB(170,195,47)
+

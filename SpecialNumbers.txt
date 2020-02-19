@@ -1,0 +1,26 @@
+42：the Answer to Life, the Universe and Everything is 42 ——Hitchhiker’s Guide to the Galaxy——Douglas Adams
+69：（6×9）+（6 + 9）= 69
+72：孙悟空
+73：Sheldon的73Sheldon: "The best number is 73. Why? 73 is the 21st prime number. Its mirror, 37, is the 12th and its mirror, 21, is the product of multiplying 7 and 3... and in binary 73 is a palindrome, 1001001, which backwards is 1001001."
+108：水浒传
+163：e^（圆周率*根号下163）这个数字等于262537412640768743.999999999992...如此接近整数
+196：任何自然数，将它自身和它的倒序数相加，再将得到的和与它的倒序数相加，一直重复，最终总会得到一个回文数。任何自然数，将它自身和它的倒序数相加，再将得到的和与它的倒序数相加，一直重复，最终总会得到一个回文数。
+220：1+2+4+5+10+11+20+22+44+55+110=284
+284：1+2+4+71+142=220彼此真因数总和是对方
+314：你好，圆周率。
+404：“Across the Great Wall we can reach every corner in the world.(越过长城，走向世界)”。
+520：in china，it's i love u
+618：黄金分割
+666：“Let him who has understanding calculate the number of the best,for it is the number of a man,and his number is 666.”Revelations
+1024：#include <iostream>
+using namespace std;
+int main()
+{
+    cout << "Hello, world!" << endl;
+    return 0;
+}
+1729：1729＝1³+12³＝9³+10³拉马努金
+2020：happy new year
+2718：e
+65537： - This number is arguably the number with the most potential. It’s currently the largest Fermat prime known.
+920225：daisy
